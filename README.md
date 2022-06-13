@@ -16,7 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # What Mouse do you use mpst often? (PC Mouse)
-
+普段どのマウスを使用してPCを使っていますか？
+型番が分からない人はメーカーを送ってください！
 
 # List of Hobby
 example) Logicool G703
