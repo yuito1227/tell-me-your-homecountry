@@ -23,3 +23,4 @@ To complete the assignment, please do the following:
 example) Logicool G703
 - Xtrfy M42
 - MX MASTER 3
+- Logicool pro hero
