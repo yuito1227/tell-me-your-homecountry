@@ -24,3 +24,4 @@ example) Logicool G703
 - Xtrfy M42
 - MX MASTER 3
 - Logicool pro hero
+- Logicool M650LOW L
