@@ -22,3 +22,4 @@ To complete the assignment, please do the following:
 # List of Hobby
 example) Logicool G703
 - Xtrfy M42
+- Logicool M650LOW L
