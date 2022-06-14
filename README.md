@@ -8,3 +8,5 @@ Goal: Type anything within three words. It can be in any language. For example, 
 Feel free! :blush:
 
 # List
+- お・可愛い・こと (O kawaii koto) = How cute!
+- Just do it!
