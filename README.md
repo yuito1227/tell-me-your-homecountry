@@ -34,3 +34,4 @@ from: (https://www.pinterest.com/pin/820007044642097824/)
 - China 国足
 - Spain
 - Gamba Osaka
+- Japan
