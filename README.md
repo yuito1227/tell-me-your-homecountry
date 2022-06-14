@@ -26,4 +26,5 @@ example) Logicool G703
 - Logicool pro hero
 - Logicool M650LOW L
 - ロジクールG304  
+- steelserries AEROX3
 - Logicool M575
