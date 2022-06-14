@@ -26,3 +26,4 @@ example) Logicool G703
 - Logicool pro hero
 - Logicool M650LOW L
 - ロジクールG304  
+- Logicool M575
