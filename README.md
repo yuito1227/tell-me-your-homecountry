@@ -28,4 +28,5 @@ example) Logicool G703
 - ロジクールG304  
 - steelserries AEROX3
 - Logicool M575
+- MS111-P
 - zowie ec2b
