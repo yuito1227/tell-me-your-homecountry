@@ -26,3 +26,4 @@ For example, I use "GTX3070" for research purposes (machine learning, running 3D
 I'm looking forward to your effort.
 
 # List of GPU.
+1. GTX 1066 super
