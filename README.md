@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. ra-men
 7. udon
 8. Carbonara
+9. rice
