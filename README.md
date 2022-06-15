@@ -28,3 +28,4 @@ I'm looking forward to your effort.
 # List of GPU.
 1. GTX 1066 super
 2. GTX 1650
+3. RTX 3070
