@@ -12,3 +12,4 @@ Feel free! :blush:
 - Just do it!
 -いいよ　来いよ
 - Hel lo World
+- Let it go
