@@ -15,9 +15,9 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Type of GPU you are using).
+Please tell me about the GPU you are using.
+For research or personal use, either OK.
+If you are willing to help me with my project, please add the type of GPU you are using to the list.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+I'm looking forward to your effort.
