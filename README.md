@@ -29,3 +29,4 @@ I'm looking forward to your effort.
 1. GTX 1066 super
 2. GTX 1650
 3. M1
+4. RTX3070
