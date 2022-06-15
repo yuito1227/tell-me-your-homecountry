@@ -10,3 +10,4 @@ Feel free! :blush:
 # List
 - お・可愛い・こと (O kawaii koto) = How cute!
 - Just do it!
+-いいよ　来いよ
