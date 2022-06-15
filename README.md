@@ -30,4 +30,5 @@ example) Logicool G703
 - Logicool M575
 - MS111-P
 - zowie ec2b
+- Logicool G PRO X SUPERLIGHT
 - Logicool G PRO X superlight
