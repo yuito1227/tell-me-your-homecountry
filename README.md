@@ -30,3 +30,4 @@ I'm looking forward to your effort.
 2. GTX 1650
 3. M1
 4. RTX3070
+5. RTX 3060
