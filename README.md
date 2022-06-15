@@ -32,3 +32,4 @@ example) Logicool G703
 - zowie ec2b
 - Logicool G PRO X SUPERLIGHT
 - Logicool G PRO X superlight
+- M-XGM10DB
