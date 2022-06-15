@@ -18,9 +18,11 @@ To complete the assignment, please do the following:
 # My Project (Type of GPU you are using).
 Please tell me about the GPU you are using.
 For research or personal use, either OK.
+If you have time, we would also appreciate it if you could describe the intended use in the Discussion.
 If you are willing to help me with my project, please add the type of GPU you are using to the list.
+
+For example, I use "GTX3070" for research purposes (machine learning, running 3D engines like Unity, etc.) as well as for playing online games.
 
 I'm looking forward to your effort.
 
 # List of GPU.
-1. GTX3070
