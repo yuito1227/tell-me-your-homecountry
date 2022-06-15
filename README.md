@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Banana
 5. crepe
 6. Fried egg
+7. ra-men
