@@ -30,4 +30,5 @@ Please vote your favourite Manga following lists
 9. ちはやふる
 10. アイシールド21
 11. クレヨンしんちゃん
+12. ブラックジャック
 
