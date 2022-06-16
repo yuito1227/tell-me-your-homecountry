@@ -27,3 +27,4 @@ Please vote your favourite Manga following lists
 6. 静かなるドン
 7. セトウツミ
 8. ブラックアリス
+9. ちはやふる
