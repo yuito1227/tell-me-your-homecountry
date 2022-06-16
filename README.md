@@ -33,3 +33,4 @@ I'm looking forward to your effort.
 5. RTX 3060
 6. RTX 2060
 7. RTX 3060Ti
+8. MX450
