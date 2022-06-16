@@ -29,3 +29,5 @@ Please vote your favourite Manga following lists
 8. ブラックアリス
 9. ちはやふる
 10. アイシールド21
+11. クレヨンしんちゃん
+
