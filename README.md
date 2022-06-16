@@ -2,32 +2,33 @@
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
+
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
 4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
 
-# Tell me your favorite Manga!
-あなたの好きな漫画を教えてください。
-どんなジャンルでもOKです！
+# Requirements
+To complete the assignment, please do the following:
+1. Fork this project and then rename the title to your hobby. 
+2. Announce the new project and try to attract other members.
+3. Make 10 Pull Request contributions to other projects
+4. Merge 10 Pull Requests into your forked Project.
 
-Please tell me your favorite Manga.
-Any genre is fine with me!
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Manga
-Please vote your favourite Manga following lists 
-1. HunterXHunter
-2. LIAR GAME
-3. 寄生獣
-4. ドラえもん
-5. ヒカルの碁
-6. 静かなるドン
-7. セトウツミ
-8. ブラックアリス
-9. ちはやふる
-10. アイシールド21
-11. クレヨンしんちゃん
-12. ブラックジャック
-13. BLEACH
+# 好きな食べ物, your favorite food
+1. sushi
+2. tempura
+3. apple
+4. からあげ
+5. Motsunabe
+6. ra-men
+7. udon
+8. Carbonara
+9. rice
+10. Tofu
+11. Cheesecake
