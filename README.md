@@ -24,22 +24,25 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # What is your favolite color？
 Please write between the slashes. 
 
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
 - 水色
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
