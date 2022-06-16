@@ -28,3 +28,4 @@ Please vote your favourite Manga following lists
 7. セトウツミ
 8. ブラックアリス
 9. ちはやふる
+10. クレヨンしんちゃん
