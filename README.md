@@ -1,42 +1,46 @@
-# Attracting football fans⚽⚽⚽
-My Project (Footbal_team-collection)
-Goal - I want contributors to help me list some favorite football team you like.
+# Attracting Contributors
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-If possible, we can hold a party to watch the World Cup 🍺
+# Rules
 
-If you don't know or are new to this, I welcome any discussions and comments~
+1. Please choose a hobby or some interest that you want to build your repository
+2. Make a README to announce this theme (i.e., my favourite video games or anime)
+3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
+4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
 
-
-# Find the football club which you like 
-Check out the list of all the men and women football clubs broken down by country on fbref.com
-
-https://fbref.com/en/squads/
-
-Any kind of football team you can write on the README even the school team (just name the school)
-
-![image](https://user-images.githubusercontent.com/64719917/173284996-a5b63ee0-9341-4205-88e0-3f8277592cb1.png)  
-
-from: (https://www.pinterest.com/pin/820007044642097824/)
-
+# Requirements
+To complete the assignment, please do the following:
+1. Fork this project and then rename the title to your hobby. 
+2. Announce the new project and try to attract other members.
+3. Make 10 Pull Request contributions to other projects
+4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-1: Fiorentina  
-2: Japan  
-3: Croatia  
-4: Brazil  
-5: Italy  
-6: Brazil  
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
+
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
-# List of Your favourite football team
-- Union of North African Federations (UNAF)  
-- FC Bayern München  
-- China 国足  
-- Spain  
-- Gamba Osaka  
-- Japan  
-- Kawasaki Frontale
-- Manchester United
-- Barcelona
-- Tottenham
-- Manchester City
+# What is your favolite color？
+Please write between the slashes. 
+
+/Orange
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
