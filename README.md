@@ -20,3 +20,4 @@ To complete the assignment, please do the following:
 What is your favorite robot? It can be either an anime, manga, or other creation, or a real-life robot!
 
 # List of Robot
+- Pepper
