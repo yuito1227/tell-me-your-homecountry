@@ -15,9 +15,13 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(Smartphone Game-Collection)
+I want contributors to help me list some favorite Smartphone Game.
+みなさんのお気に入りのスマートフォンゲームリスト作成にご協力をお願いします．
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+My examples:
+1. Rondom Dice Wars（ランダムダイスウォーズ）
+2. Arknights（アークナイツ）
+3. Puyopuyo Quest（ぷよぷよクエスト）
 
 # List of Hobby
