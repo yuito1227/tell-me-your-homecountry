@@ -16,8 +16,13 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+Thanks for coming!
+Describe here the smartphone you are using.
+あなたの使っているスマートフォンを教えてください
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+For Example:
+1. Pixel 3
+
+
 
 # What smartphone are you using?
