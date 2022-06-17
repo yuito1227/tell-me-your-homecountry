@@ -28,3 +28,4 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 
 # List of Hobby
 -MENYA ZISURI (麵屋じすり)
+- Kappa Ramen (河童ラーメン）
