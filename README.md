@@ -15,9 +15,15 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Example.
+Thank you for visiting my repo.
+訪問ありがとうございます。
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+I'd like to know your favorite ramen shop in Kansai
+あなたの好きな関西にあるラーメン屋が知りたいです。
+
+If it is convenient,  please add your favorite ramen shop to the List of Hobby.
+よろしければ、好きなラーメン屋を「List of Hobby」に追加してください。
+
 
 # List of Hobby
