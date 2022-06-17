@@ -34,3 +34,4 @@ example) Logicool G703
 - Logicool G PRO X superlight
 - M-XGM10DB
 - Apple Magic Mouse
+- Razer Viper mini
