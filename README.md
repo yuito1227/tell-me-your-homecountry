@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project(Smartphone Game-Collection)
-I want contributors to help me list some favorite Smartphone Game.
+I want contributors to help me list some favorite Smartphone Game. </bar>
 みなさんのお気に入りのスマートフォンゲームリスト作成にご協力をお願いします．
 
 My examples:
