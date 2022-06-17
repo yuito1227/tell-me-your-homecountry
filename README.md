@@ -11,3 +11,4 @@ My examples:
 3. Puyopuyo Quest（ぷよぷよクエスト）
 
 # List of Hobby
+1. PokemonGo
