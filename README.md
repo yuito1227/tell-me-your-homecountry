@@ -12,3 +12,4 @@ My examples:
 
 # List of Hobby
 1. PokemonGo
+2. Umamusume
