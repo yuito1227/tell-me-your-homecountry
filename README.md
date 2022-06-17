@@ -26,3 +26,4 @@ For Example:
 
 
 # What smartphone are you using?
+- Xperia
