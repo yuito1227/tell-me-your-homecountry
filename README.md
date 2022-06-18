@@ -17,3 +17,4 @@ My examples:
 4. THE IDOLM@STER MILLION LIVE! THEATER DAYS
 5. Umamusume
 6. Mobile Legends
+7. LINE:ディズニー ツムツム
