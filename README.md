@@ -25,7 +25,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please write between the slashes. 
 
 
-/
+/水色
 /Black
 /Orange
 /
@@ -45,3 +45,7 @@ Please write between the slashes.
 /
 /
 /
+/
+/
+/
+
