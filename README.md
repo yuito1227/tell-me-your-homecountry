@@ -28,7 +28,7 @@ Please write between the slashes.
 /水色
 /Black
 /Orange
-/
+/SKY BLUE
 /
 /
 /
