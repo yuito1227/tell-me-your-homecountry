@@ -16,19 +16,15 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-Thanks for visiting this repository!<br><br>
+Thanks for coming!
+Describe here the smartphone you are using.
+あなたの使っているスマートフォンを教えてください
 
-I would like to know what your favorite spots in Nara.<br>
-あなたの奈良のおすすめスポットが知りたいです！
-<br><br>
+For Example:
+1. Pixel 3
 
-Especially, I would be very happy to receive information about good restaurants and cafes.<br>
-特に、おいしいレストランやカフェの情報を教えてもらえると嬉しいです！
-<br><br>
 
-If you help my project, please add your favorite spot in Nara into the List of Hobby.<br>
-もし、このプロジェクトにご協力いただけるなら、あなたのお気に入りの奈良県内のスポットを「List of Hobby」に追加してください。<br><br>
 
-Thank you for your cooperation.<br>
+# What smartphone are you using?
 
-# List of Hobby
+1. Xiaomi Mi 11 Lite 5G
