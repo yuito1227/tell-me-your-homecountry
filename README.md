@@ -28,4 +28,8 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 
 # List of Hobby
 -MENYA ZISURI (麵屋じすり)
+
 -あまのじゃく（富雄）
+
+-アノラーメン製作所
+
