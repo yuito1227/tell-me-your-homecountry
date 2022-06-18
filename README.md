@@ -12,4 +12,6 @@ My examples:
 
 # List of Hobby
 1. PokemonGo
-2. THE IDOLM@STER MILLION LIVE! THEATER DAYS
+2. IdentityV
+3. 将棋ウォーズ
+4. THE IDOLM@STER MILLION LIVE! THEATER DAYS
