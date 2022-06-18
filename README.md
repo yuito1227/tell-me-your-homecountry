@@ -26,3 +26,4 @@ For Example:
 
 
 # What smartphone are you using?
+1. iPhone 13 Pro Max
