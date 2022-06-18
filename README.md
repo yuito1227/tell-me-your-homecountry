@@ -24,3 +24,4 @@ What is your favorite robot? It can be either an anime, manga, or other creation
 - Doraemonnn
 1. ドラえもん
 - White-Glint (ARMORED CORE: FA)
+- Pepper
