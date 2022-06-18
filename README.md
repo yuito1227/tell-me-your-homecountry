@@ -30,8 +30,7 @@ Please write between the slashes.
 /Orange
 /SKY BLUE
 /Red
-/
-/
+/purple
 /
 /
 /
