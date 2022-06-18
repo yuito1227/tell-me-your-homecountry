@@ -24,7 +24,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Osaka
 - 1999
 - working out
+- Hiroshima
+- 1997
 - 1987
 - 1997
 - 1997
-
