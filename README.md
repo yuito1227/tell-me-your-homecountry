@@ -22,3 +22,4 @@ What is your favorite robot? It can be either an anime, manga, or other creation
 # List of Robot
 - ランスロット(コードギアス)
 - Doraemonnn
+1. ドラえもん
