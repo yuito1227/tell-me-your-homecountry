@@ -14,3 +14,4 @@ My examples:
 1. PokemonGo
 2. IdentityV
 3. 将棋ウォーズ
+4. THE IDOLM@STER MILLION LIVE! THEATER DAYS
