@@ -20,4 +20,8 @@ To complete the assignment, please do the following:
 What is your favorite robot? It can be either an anime, manga, or other creation, or a real-life robot!
 
 # List of Robot
+<<<<<<< HEAD
 - ランスロット(コードギアス)
+=======
+-Doraemonnn
+<<<<<<< 50d32a9093226764061148af16d69f0128bc4afa
