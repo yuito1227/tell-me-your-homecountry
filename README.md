@@ -28,5 +28,14 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 
 # List of Hobby
 -MENYA ZISURI (麵屋じすり)
+
 -IKEDAYA in Ichijoji（一乗寺の池田屋）
+
 -アノラーメン製作所
+
+- Kappa Ramen (河童ラーメン）
+
+-あまのじゃく（富雄）
+
+-アノラーメン製作所
+
