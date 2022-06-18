@@ -29,7 +29,7 @@ Please write between the slashes.
 /Black
 /Orange
 /SKY BLUE
-/
+/Red
 /
 /
 /
