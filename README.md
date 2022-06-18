@@ -15,20 +15,28 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-Thanks for visiting this repository!<br><br>
+# Example.
+Thank you for visiting my repo.
+訪問ありがとうございます。
 
-I would like to know what your favorite spots in Nara.<br>
-あなたの奈良のおすすめスポットが知りたいです！
-<br><br>
+I'd like to know your favorite ramen shop in Kansai
+あなたの好きな関西にあるラーメン屋が知りたいです。
 
-Especially, I would be very happy to receive information about good restaurants and cafes.<br>
-特に、おいしいレストランやカフェの情報を教えてもらえると嬉しいです！
-<br><br>
+If it is convenient,  please add your favorite ramen shop to the List of Hobby.
+よろしければ、好きなラーメン屋を「List of Hobby」に追加してください。
 
-If you help my project, please add your favorite spot in Nara into the List of Hobby.<br>
-もし、このプロジェクトにご協力いただけるなら、あなたのお気に入りの奈良県内のスポットを「List of Hobby」に追加してください。<br><br>
-
-Thank you for your cooperation.<br>
 
 # List of Hobby
+-MENYA ZISURI (麵屋じすり)
+
+-IKEDAYA in Ichijoji（一乗寺の池田屋）
+
+-アノラーメン製作所
+
+- Kappa Ramen (河童ラーメン）
+
+-あまのじゃく（富雄）
+
+-アノラーメン製作所
+
+- みつ葉（富雄）
