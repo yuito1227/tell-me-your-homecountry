@@ -26,3 +26,4 @@ For Example:
 
 
 # What smartphone are you using?
++ iPhone12 mini
