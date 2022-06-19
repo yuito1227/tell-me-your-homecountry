@@ -34,3 +34,4 @@ If you help my project, please add it into the "List of Hometown".</br>
 8. Tokyo</br>
 9. </br>
 10. </br>
+11. Yamagata</br>
