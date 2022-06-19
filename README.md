@@ -36,3 +36,4 @@ If you help my project, please add it into the "List of Hometown".</br>
 9. Kyobashi, Osaka</br>
 10. </br>
 11. Yamagata</br>
+12. Japan
