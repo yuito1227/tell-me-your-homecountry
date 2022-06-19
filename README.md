@@ -34,5 +34,5 @@ If you help my project, please add it into the "List of Hometown".</br>
 8. Tokyo</br>
 9. Taiwan</br>
 9. Kyobashi, Osaka</br>
-10. </br>
+10. Jakarta, Indonesia</br>
 11. Yamagata</br>
