@@ -24,5 +24,5 @@ For Example:
 1. Pixel 3
 
 
-
 # What smartphone are you using?
+Galaxy
