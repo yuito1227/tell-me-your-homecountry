@@ -39,6 +39,8 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 
 -アノラーメン製作所
 
+- 松龍（滋賀）
+
 - 麺屋 四季 吹田店
 
 -燃えよ麺助 
