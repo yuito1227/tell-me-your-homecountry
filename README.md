@@ -22,4 +22,7 @@ Please tell me.
 Thank you for your cooperation.
 
 # List of Hobby
-notion
+- Discord
+- SaaS
+- notion
+
