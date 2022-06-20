@@ -25,6 +25,7 @@ For Example:
 2. Pixel 5a
 
 # What smartphone are you using?
+1. iphone 13
 1. Xperia
 1. Iphone 11 Pro
 1. Galaxy
