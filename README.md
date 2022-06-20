@@ -20,3 +20,4 @@ My examples:
 7. LINE:ディズニー ツムツム
 8. Fate/Grand Order
 9. Genshin
+10. Brain out
