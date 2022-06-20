@@ -39,6 +39,8 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 
 -アノラーメン製作所
 
+- 麺屋 四季 吹田店
+
 -燃えよ麺助 
 
 - みつ葉（富雄）
