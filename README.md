@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. oyakodon
 9. syougayaki
 10. udon
+11. pizza
