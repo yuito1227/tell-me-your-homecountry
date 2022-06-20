@@ -15,17 +15,20 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Anime
-What is your favorite anime?
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of Hobby
-1. Naruto
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of Your Birth information
+- Osaka
+- 1999
+- working out
+- Oita
+- Hiroshima
+- 1997
+- 1987
+- 1997
+- 1997
+- 1998
+- 2000
