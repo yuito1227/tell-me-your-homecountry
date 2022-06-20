@@ -21,3 +21,4 @@ My examples:
 8. Fate/Grand Order
 9. Genshin
 10. Brain out
+11. Random Dice
