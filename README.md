@@ -23,4 +23,4 @@ Example: Notion
 作業効率化のために役立つソフトウェアを教えてください！
 例）Notion
 
-# List of Hobby
+# List of Software
