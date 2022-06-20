@@ -29,3 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. Fried egg
 7. ra-men
 8. oyakodon
+9. udon
+
