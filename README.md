@@ -31,8 +31,7 @@ Please write between the slashes.
 /SKY BLUE
 /Red
 /purple
-/
-/
+/white
 /
 /
 /
