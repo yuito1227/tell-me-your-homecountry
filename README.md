@@ -27,7 +27,7 @@ For Example:
 
 
 # What smartphone are you using?
-
+1. ASUSU Zenphone 8
 1. Xiaomi Mi 11 Lite 5G
 1. iPhone 12
 1. iPhone 13 Pro Max
