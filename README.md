@@ -27,11 +27,9 @@ For Example:
 
 
 # What smartphone are you using?
-
+1. iPhone 12
 1. iPhone 13 Pro Max
 1. Iphone 13
 1. iPhone8 plus
 1. Pixel 3
 1. Xperia 10 III
-
-
