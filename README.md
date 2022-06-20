@@ -32,7 +32,7 @@ Please write between the slashes.
 /Red
 /purple
 /Green
-/
+/white
 /
 /
 /
