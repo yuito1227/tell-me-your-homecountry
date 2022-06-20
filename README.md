@@ -22,6 +22,7 @@ Describe here the smartphone you are using.
 
 For Example:
 1. Pixel 3
+2. Pixel 5a
 
 
 
