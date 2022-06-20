@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. ra-men
 8. oyakodon
 9. udon
+
