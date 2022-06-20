@@ -24,8 +24,8 @@ For Example:
 1. Pixel 3
 2. Pixel 5a
 
-
 # What smartphone are you using?
+1. Galaxy
 1. iPhone12 mini
 1. iphone se2
 1. ASUSU Zenphone 8
