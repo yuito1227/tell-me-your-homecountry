@@ -41,3 +41,9 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 
 - 松龍（滋賀）
 
+- 麺屋 四季 吹田店
+
+-燃えよ麺助 
+
+- みつ葉（富雄）
+
