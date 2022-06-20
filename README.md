@@ -36,3 +36,6 @@ If you help my project, please add it into the "List of Hometown".</br>
 9. Kyobashi, Osaka</br>
 10. Jakarta, Indonesia</br>
 11. Yamagata</br>
+12. </br>
+13. Yamagata</br>
+14. Shiga</br>
