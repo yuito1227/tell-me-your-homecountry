@@ -16,24 +16,34 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-Please tell me your homecountry!</br>
-If you help my project, please add it into the "List of Hometown".</br>
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-あなたの出身地を教えてください！</br>
-出身地の記入は下の「List of Hometown」までお願いします</br>
 
-# List of Hometown
-1. Japan</br>
-2. japan</br>
-3. 愛知県</br> 
-4. Hiroshima</br>
-5. China</br>
-6. Osaka</br>
-7. Vermont, America</br>
-8. Tokyo</br>
-9. Taiwan</br>
-9. Kyobashi, Osaka</br>
-10. </br>
-11. Yamagata</br>
-12. Shiga</br>
+# What is your favolite color？
+Please write between the slashes. 
+
+
+/水色
+/Black
+/Orange
+/SKY BLUE
+/Red
+/purple
+/Green
+/white
+/Yellow
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
