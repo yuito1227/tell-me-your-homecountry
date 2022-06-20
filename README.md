@@ -18,3 +18,4 @@ My examples:
 5. Umamusume
 6. Mobile Legends
 7. LINE:ディズニー ツムツム
+8. Fate/Grand Order
