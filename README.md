@@ -27,3 +27,5 @@ For Example:
 
 
 # What smartphone are you using?
+1. Pixel 3
+2. Xperia 10 III
