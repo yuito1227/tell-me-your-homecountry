@@ -24,3 +24,4 @@ Example: Notion
 例）Notion
 
 # List of Software
+- Notion
