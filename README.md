@@ -28,10 +28,10 @@ For Example:
 
 # What smartphone are you using?
 
-- Iphone 13
-
-- iPhone8 plus
-
+1. iPhone 13 Pro Max
+1. Iphone 13
+1. iPhone8 plus
 1. Pixel 3
-2. Xperia 10 III
+1. Xperia 10 III
+
 
