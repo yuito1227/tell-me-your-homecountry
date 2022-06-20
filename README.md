@@ -48,3 +48,5 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 -燃えよ麺助 
 
 - みつ葉（富雄）
+
+- 歴史を刻め（大阪）
