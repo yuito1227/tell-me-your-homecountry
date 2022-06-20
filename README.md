@@ -15,9 +15,12 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# What is your favorite software tool?
+Thanks for coming!
+I often work on a computer. Please let me know what tools you use to make my work more efficient.
+Example: Notion
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+作業効率化のために役立つソフトウェアを教えてください！
+例）Notion
 
 # List of Hobby
