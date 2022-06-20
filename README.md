@@ -35,3 +35,4 @@ example) Logicool G703
 - M-XGM10DB
 - Apple Magic Mouse
 - Razer Viper mini
+- Razer Death Adder mini v2
