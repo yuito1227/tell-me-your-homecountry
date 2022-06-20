@@ -22,8 +22,16 @@ Describe here the smartphone you are using.
 
 For Example:
 1. Pixel 3
+2. Pixel 5a
 
 
 
 # What smartphone are you using?
+
 1. iPhone 13 Pro Max
+1. Iphone 13
+1. iPhone8 plus
+1. Pixel 3
+1. Xperia 10 III
+
+
