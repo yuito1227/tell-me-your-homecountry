@@ -20,15 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Your Birth information
-- Osaka
-- 1999
-- working out
-- Oita
-- Hiroshima
-- 1997
-- 1987
-- 1997
-- 1997
-- 1998
-- 2000
+# List of Cooking
+1. curry
+2. cupnoodle
+3. sushi
+4. Banana
+5. crepe
+6. Fried egg
+7. ra-men
+8. oyakodon
+9. udon
