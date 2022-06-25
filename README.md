@@ -50,3 +50,6 @@ If it is convenient,  please add your favorite ramen shop to the List of Hobby.
 - みつ葉（富雄）
 
 - 歴史を刻め（大阪）
+- 
+- 元喜神（鶏白湯ラーメン・奈良）
+
