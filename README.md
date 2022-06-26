@@ -40,3 +40,4 @@ If you help my project, please add it into the "List of Hometown".</br>
 13. Yamagata</br>
 14. Shiga</br>
 15. Chiba</br>
+16. Wakayama</br>
