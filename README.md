@@ -39,5 +39,6 @@ If you help my project, please add it into the "List of Hometown".</br>
 12. </br>
 13. Yamagata</br>
 14. Shiga</br>
+15. Fukuoka
 15. Chiba</br>
 16. Wakayama</br>
