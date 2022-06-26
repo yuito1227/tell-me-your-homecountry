@@ -33,6 +33,14 @@ If you help my project, please add it into the "List of Hometown".</br>
 7. Vermont, America</br>
 8. Tokyo</br>
 9. Taiwan</br>
-9. Kyobashi, Osaka</br>
-10. Hong Kong</br>
-11. Yamagata</br>
+10. Kyobashi, Osaka</br>
+11. Hong Kong</br>
+12. Yamagata</br>
+13. Armenia </br>
+14. Ikoma, Nara
+15. Jakarta, Indonesia</br>
+16. Yamagata</br>
+17. Shiga</br>
+18. Fukuoka
+19. Chiba</br>
+20. Wakayama</br>
