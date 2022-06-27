@@ -21,6 +21,9 @@ Tell me what music you like!
 
 # List of Hobby
 
+- edm
+
+
  - Brass Band
 
 - jpop
@@ -29,4 +32,5 @@ Tell me what music you like!
 - French electronic music
 
 - Vocaloid
+
 
