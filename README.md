@@ -20,4 +20,20 @@ To complete the assignment, please do the following:
 Tell me what music you like!
 
 # List of Hobby
+
 jpop
+
+
+- edm
+
+
+ - Brass Band
+
+- jpop
+
+
+- French electronic music
+
+- Vocaloid
+
+
